@@ -1,0 +1,502 @@
+*{
+    margin: 0;
+}
+.container1{
+    height: 150px;
+    align-items: center;
+    display: flex;
+    background-color: rgb(0,0,0,0.8);
+}
+#c1v1{
+ margin-left: 400px;
+}
+#c1v2{
+    
+   
+    color: white;
+    font-size: 25px;
+margin-left: 70px;
+}
+#c1v3{
+    color: white;
+    font-size: 25px;
+margin-left: 70px;
+}
+#c1v4{
+    color: white;
+    font-size: 25px;
+margin-left: 70px;
+}
+#c1v5{
+  margin-right: 40px;
+   margin-left: 90px;
+}
+#c1v6{
+    margin-right: 40px;
+}
+#c1v7{
+    margin-right: 40px;
+}
+#c1v8{
+    margin-right: 70px;
+}
+#c1v9{
+    margin-right: 40px;
+    border-radius: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid white;
+}
+#c1v10{
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 17px;
+    padding-left: 17px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(193, 80, 0);
+
+}
+.containeri2{
+    background-size: cover;
+    height: 1000px;
+    background-image: url(./images/221\ \(1\).mp4_snapshot_00.10\ 1.png);
+}
+.contaneri3{
+    height: 847px;
+    background-color: rgb(0,0,0,0.6);
+}
+.con1{
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.con2{
+    margin-top: 40px;
+}
+.con2 img{
+  margin-top: 25px;
+    margin-left: 140px;
+    height: 40px;
+    text-decoration: column;
+}
+#c2v1{
+    color: rgb(199, 199, 199);
+    font-size: 30px;
+}
+.con3{
+   
+    color: white;
+}
+.glava1{
+    display: flex;
+}
+#c2vf1{
+
+    color: rgb(199, 199, 199);
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+#c2vf2{
+
+    color: rgb(199, 199, 199);
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#c2vf3{
+    color: rgb(199, 199, 199);
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#c2vf4{
+
+    color: rgb(199, 199, 199);
+    font-size: 30px;
+    margin-top: 18px;
+    margin-left: 10px;
+
+}
+.for{
+   display: flex;
+}
+#fg{
+
+
+    background-color: rgb(52, 51, 51);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 60px;
+    margin-left: 60px;
+    border: 5px solid grey;
+}
+#fg1{ 
+
+
+    color: rgb(156, 65, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    margin-top: 60px;
+    border: 1px solid red;
+    background-image: url(./images/images\ far\ 1.webp);
+}
+.faridun1{
+    height: 1000px;
+    background-image: url(./images/02\ \(2\)\ 1.jpg);
+}
+.faridun2{
+    
+    background-color: rgb(0,0,0,0.6);
+    height: 1000px;
+}
+#m1f1{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 390px;
+}
+#m1f2{
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 200px;
+}
+#m1f3{
+    width: 200px;
+    margin-right: 300px;
+}
+.mar2{
+display: flex;
+color: gold;
+}
+#m2f1{
+    margin-left: 360px
+}
+#m2f2{
+    margin-left: 200px;
+}
+#m2f3{
+    margin-left: 180px;
+}
+.mar3{
+    margin-top: 100px;
+margin-left: 400px;
+}
+.faridun3{
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+.bar1{
+    height: 800px;
+    background-image: url(./images/Group\ 17.png);
+    width: 50%;
+    margin-left: 0px;
+}
+.bar2{
+    text-align: center;
+    height: 800px;
+    background-size: cover;
+    background-image: url(./images/02\ \(2\)\ 2.png);
+    width: 50%;
+}
+#b2f1{
+    margin-top: 140px;
+    height: 700px;
+}
+#b1v1{
+
+    
+    
+}
+#b1v2{
+    margin-left: 140px;
+}
+#hjk{
+    position: absolute;
+    left: 40%;
+}
+#tjk{
+    margin-left: 140px;
+}
+.naruto{
+    text-align: center;
+    height: 1100px;
+    background-image: url(./images/03\ 1\ \(1\).png);
+}
+#tjk1{
+    margin-top: 150px;
+}
+.hinata{
+    height: 1100px;
+    background-color: rgb(0,0,0,0.6);
+}
+.hinata1{
+    margin-top: 80px;
+}
+.hinata2{
+    margin-top: 70px;
+}
+#hin1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.minato{
+    height: 1100px;
+    background-image: url(./images/03\ 1\ \(1\).png);
+}
+.kushina
+{height: 1100px;
+    background-color: rgb(0,0,0,0.8);
+}
+#k1v1{
+    margin-left: 500px;
+}
+#mark1{
+position: absolute;
+top: 1%;
+    
+}
+#mark3{
+    height: 700px;
+    width: 700px;
+    margin-top: 30px;
+}
+#mark2{
+
+}
+.kushina1{
+    margin-top: 90px;
+text-align: center;
+}
+#mark0{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.ho{
+    position: absolute;
+    top: 448%;
+}
+.ho1{
+    position: absolute;
+    top: 448%;
+}
+.kushino3{
+    margin-top: 100px;
+    margin-left: 280px;
+}
+.sasuke{
+    text-align: center;
+    height: 1000px;
+    background-image: url(./images/4249454\ копия\ 1\ \(1\).jpg);
+}
+#shisuya{
+    margin-top: 150px;
+}
+#ik{
+
+    margin-left: 400px;
+    margin-right: 400px;
+    color: white;
+}
+.magregor{
+    height: 1100px;
+    background-image: url(./images/05\ \(2\)\ 1.png);
+}
+.magregorcha{
+    text-align: center;
+    height: 1100px;
+    background-color: rgb(0,0,0,0.8);
+}
+#la{
+    margin-top: 200px;
+}
+#fg12{
+   
+
+    background-color: rgb(52, 51, 51);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 80px;
+    margin-left: 60px;
+    border: 5px solid grey;
+}
+#fg11{ 
+    margin-left: 100px;
+    
+    color: rgb(156, 65, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    margin-top: 80px;
+    border: 1px solid red;
+    background-image: url(./images/images\ far\ 1.webp);
+}
+.man1{
+    margin-left: 300px;
+    width: 40%;
+    margin-top: 90px;
+}
+.man2{
+    text-align: start;
+    color: aliceblue;
+    margin-right: 200px;
+    margin-top: 90px;
+    width: 40%;
+}
+.koko{
+    display: flex;
+}
+#mari{
+    margin-top: 40px;
+}
+#mari1{
+    margin-right: 150px;
+    margin-top: 40px;
+}
+.merse1{
+  
+    width: 50%;
+    background-size: cover;
+    height: 1100px;
+background-image:url(./icons/Group\ 37.png);
+}
+.merse2{
+    width: 50%;
+    background-size: cover;
+    height: 1100px;
+    background-image:url(./icons/Group\ 38.png);
+    }
+.galenvager{
+    display: flex;
+    width: 100%;
+    height: 900px;
+    background-color: black;
+}
+#my{
+    margin-top: 40px;
+    margin-left: 220px;
+}
+#jklb{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#fghj{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.olim{
+    height: 1200px;
+    background-image: url(./icons/02\ \(2\)\ 2\ \(2\).png);
+}
+.olim1{
+   
+    
+    
+    
+    text-align: center;
+    height: 1200px;
+    background-color: rgb(0,0,0,0.8);
+}
+#hj{
+    margin-top: 200px;
+}
+.oli1{
+    margin-left: 100px;
+    text-align: start;
+    color: white;
+}
+.oli{
+    text-align: start;
+    color: white;
+}
+.bare{
+    padding-top: 80px;
+    margin-left: 500px;
+    display: flex;
+   
+}
+#pl{
+    margin-top:200px ;
+}
+.bomf{
+    margin-top:200px;
+    margin-bottom: 50px;
+}
+#ghjk{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#figur{
+    margin-bottom: 50px;
+}
+#gho{
+    margin-right: 200px;
+}
+.malu{
+    margin-top: 140px;
+    display: flex;
+}
+#ios{
+    margin-left: 400px;
+    margin-right: 600px;
+}
+.div{
+    text-align: center;
+    height: 1000px;
+    background-image: url(./images/0404\ 1.png);
+}
+#mani{
+   padding-top: 100px;
+}
+#ghjk{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.aj{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.oul{
+    margin-top: 50px;
+}
+#hji{ 
+
+    margin-left: 750px;
+    margin-right: 750px;
+    color: rgb(156, 65, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    margin-top: 60px;
+    border: 1px solid red;
+    background-image: url(./images/images\ far\ 1.webp);
+}
+.aluk{
+    text-align: center;
+    height: 300px;
+    background-image: url(./images/art5-2\ 1.png);
+}
+.aluk1{
+    background-color: rgb(0,0,0,0.8);
+}
+#ghjkl{
+    
+    padding-top: 100px;
+}
